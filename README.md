@@ -1,6 +1,6 @@
-# _Flash cards_
+# _Cats vs Dogs_
 
-#### _Flash cards 01/15/2019_
+#### _Cats vs Dogs 01/15/2019_
 
 #### By _**Olha Wysocky and Yulia Shidlovskaya**_
 
